@@ -71,7 +71,7 @@ const pendentes = tarefas.filter(t => !t.concluida).length;
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 40, paddingTop: 60, backgroundColor: '#1F2937'},
+  container: { flex: 1, padding: 40, paddingTop: 50, backgroundColor: '#1F2937'},
   input: { borderWidth: 1, borderColor: '#4B5563', borderRadius: 8, padding: 10, marginBottom: 15, fontSize: 16,  backgroundColor: "#F8F8FF" },
   botaoAdicionar: {marginBottom: 15},
   botaoLimpar: {marginBottom: 15},

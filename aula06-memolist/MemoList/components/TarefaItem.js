@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#DCDCDC',
     borderRadius: 20
   },
-  texto: { fontSize: 16, color:'#111827', flex: 1,  marginRight: 20},
+  texto: { fontSize: 16, color:'#111827', flex: 1,  marginRight: 20, fontWeight: 'bold'},
   remover: { fontSize: 18 },
   concluida: {color: '#006400', textDecorationLine: 'line-through',},
 });

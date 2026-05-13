@@ -10,20 +10,18 @@
 
 | Aula | Exercício | Pasta |
 |------|-----------|-------|
-| 03   | Cartão de Visita Digital | [aula03-cartao-visita](./aula03-cartao-visita/) |
-| 04   | Contador de Hidratação   | [aula04-contador-hidratacao](./aula04-contador-hidratacao/) |
-| 05   | Meu Perfil | [aula05-meu-perfil](./aula05-meu-perfil/) |
-| 06   | MemoList | [aula06-memolist](./aula06-memolist/) |
-| 07   | Mini Loja | [aula07-mini-loja](./aula07-mini-loja/) |
-| 08   | Mini Login | [aula08-mini-login](./aula08-mini-login/) |
-| 09   | Cadastro | [aula09-cadastro-completo](./aula09-cadastro-completo/) |
+| 03   | Cartão de Visita Digital | [aula03-cartao-visita](./aula03-cartao-visita/meu-perfil) |
+| 04   | Contador de Hidratação   | [aula04-contador-hidratacao](./aula04-contador-hidratacao/meu-app) |
+| 05   | Meu Perfil | [aula05-meu-perfil](./aula05-meu-perfil/app-router) |
+| 06   | MemoList | [aula06-memolist](./aula06-memolist/Memolist) |
+| 07   | Mini Loja | [aula07-mini-loja](./aula07-mini-loja/mini-loja) |
+| 08   | Mini Login | [aula08-mini-login](./aula08-mini-login/mini-login) |
+| 09   | Cadastro | [aula09-cadastro-completo](./aula09-cadastro-completo/cadastro-app) |
 
 ---
 
 
-## 🚀 Como Rodar o Projeto
-
-### Passo a Passo
+## Como Rodar o Projeto
 
 1. **Clone o repositório:**
 ```bash
